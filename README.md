@@ -1,11 +1,16 @@
 ### Hi I'm Darshan Raval 👋
-
+<hr>
 <!--
 **darshanraval7/darshanraval7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
+My Intro...
+-----------
+
 
 - 🔭 I’m currently working on Game Developer
 - 🌱 I’m currently learning React + Blockchain
+-    Future Goal - Full Stack 
+-    Hobbies - Writing Poems, Reading Blogs, Cricket & Travelling <3
 
 <br/>
 
