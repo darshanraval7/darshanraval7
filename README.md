@@ -6,7 +6,7 @@
 
 <br/>
 
-<h3 align="center">Darshan Raval NodeJS Developer<br> <br>
+<h3 align="center">Darshan Raval - Software Engineer<br> <br>
   <a href="https://github.com/darshanraval7" target="_blank">
     <img alt="GitHub followers" src="https://img.shields.io/github/followers/darshanraval7?label=Github%20followers&style=for-the-badge">
   </a> <br> <br>
