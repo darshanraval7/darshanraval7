@@ -14,7 +14,7 @@
     <img src="https://komarev.com/ghpvc/?username=darshanraval7&label=Views&color=brightgreen&style=plastic" alt="views on github" />
   </a>
   </h3>   
-My Intro
+  
 - 🔭 I’m currently working on Game Developer
 - 🌱 I’m currently learning React + Blockchain
 - 🔭 Future Goal - Full Stack 
