@@ -7,6 +7,8 @@
 - 🔭 I’m currently working on Game Developer
 - 🌱 I’m currently learning React + Blockchain
 
+<br/>
+
 <h3 align="center">Darshan Raval NodeJS Developer<br> <br>
   <a href="https://github.com/darshanraval7" target="_blank">
     <img alt="GitHub followers" src="https://img.shields.io/github/followers/darshanraval7?label=Github%20followers&style=for-the-badge">
