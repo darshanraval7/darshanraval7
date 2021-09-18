@@ -28,6 +28,16 @@ My Intro
 </p>
 </details>
 
+<details>
+   <summary>Github Stats of me:</summary>
+<div align="center">
+<a href="#"><img src="https://github-readme-stats.vercel.app/api?username=darshanraval7&show_icons=true&count_private=true&theme=radical" width="350" height="250" ></a>
+  <br>
+<a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=darshanraval7&layout=compact&langs_count=8&theme=radical" width="350" height="250" ></a>
+
+</div>
+</details> 
+
 ### Languages
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
