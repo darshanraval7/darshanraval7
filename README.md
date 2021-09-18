@@ -19,6 +19,9 @@
 - 🌱 I’m currently learning React + Blockchain
 - 🔭 Future Goal - Full Stack 
 - 🌱 Hobbies - Writing Poems, Reading Blogs, Cricket & Travelling <3
+
+<hr>
+
 <details align="center"> 
   <summary>GitHub Trophies 🏆</summary>
 <p align="center">
