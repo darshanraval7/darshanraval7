@@ -8,11 +8,11 @@
 
 <h3 align="center">Darshan Raval NodeJS Developer<br> <br>
   
-  My Intro...
+  My Intro
 - 🔭 I’m currently working on Game Developer
 - 🌱 I’m currently learning React + Blockchain
--    Future Goal - Full Stack 
--    Hobbies - Writing Poems, Reading Blogs, Cricket & Travelling <3
+- 🔭 Future Goal - Full Stack 
+- 🌱 Hobbies - Writing Poems, Reading Blogs, Cricket & Travelling <3
 
   
   <a href="https://github.com/darshanraval7" target="_blank">
