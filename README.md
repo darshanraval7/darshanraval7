@@ -16,7 +16,7 @@
   </h3>   
   
 - 🔭 I’m currently working on Game Developer
-- 🌱 I’m currently learning React + Blockchain
+- 🌱 I’m currently learning React + Unity
 - 🔭 Future Goal - Full Stack 
 - 🌱 Hobbies - Writing Poems, Reading Blogs, Cricket & Travelling <3
 
