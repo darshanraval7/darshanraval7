@@ -13,7 +13,7 @@
   <a href="https://github.com/darshanraval7" target="_blank">
     <img src="https://komarev.com/ghpvc/?username=darshanraval7&label=Views&color=brightgreen&style=plastic" alt="views on github" />
   </a>
-  <a href="https://www.buymeacoffee.com/abhisheknaiidu" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
+  <a href="https://www.buymeacoffee.com/darshanraval" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
   </h3>   
   
 - 🔭 I’m currently working on Game Developer
