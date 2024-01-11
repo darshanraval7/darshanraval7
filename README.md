@@ -6,31 +6,21 @@
 
 <br/>
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
-<h3 align="center">Darshan Raval - Software Engineer<br> <br>
+<h3 align="center">Darshan Raval - Indian Game Developer<br> <br>
   <a href="https://github.com/darshanraval7" target="_blank">
     <img alt="GitHub followers" src="https://img.shields.io/github/followers/darshanraval7?label=Github%20followers&style=for-the-badge">
+    <img src="https://komarev.com/ghpvc/?username=darshanraval7&label=PEOPLE%20VISITS&color=blue&style=for-the-badge" alt="views on github" />
   </a> <br> <br>
   <a href="https://github.com/darshanraval7" target="_blank">
-    <img src="https://komarev.com/ghpvc/?username=darshanraval7&label=Views&color=brightgreen&style=plastic" alt="views on github" />
+    
   </a>
   <a href="https://www.buymeacoffee.com/darshanraval" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
   </h3>   
   
-- 🔭 I’m currently working on Game Developer
-- 🌱 I’m currently learning React + Unity
-- 🔭 Future Goal - Full Stack 
+- 🔭 I’m currently working on Game Developing
+- 🌱 I’m currently learning React + Unity3D
+- 🔭 Future Goal - Full Stack Developer
 - 🌱 Hobbies - Writing Poems, Reading Blogs, Cricket & Travelling
-
-<hr>
-
-<details align="center"> 
-  <summary>GitHub Trophies 🏆</summary>
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy" target="_blank">
-    <img src="https://github-profile-trophy.vercel.app/?username=darshanraval7&theme=gruvbox"/>
-  </a>
-</p>
-</details>
 
 <hr>
 
